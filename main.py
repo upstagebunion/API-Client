@@ -1,3 +1,10 @@
+#######################################################################
+### Autor: Francisco García Solís ### Instituto Tecnológico de León ###
+#######################################################################
+###   LABORATORIO PARA EL DESPLIEGUE DE APLICACIONES EMPRESARIALES  ###
+###                 Profesor: Rafael Levy Rojas                     ###
+#######################################################################
+
 import requests
 
 # Definir la URL base de la API
